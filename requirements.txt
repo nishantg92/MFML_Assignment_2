@@ -1,0 +1,11 @@
+streamlit>=1.57,<2
+scikit-learn==1.9.1
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+setuptools
+pytest
+
+-e .
